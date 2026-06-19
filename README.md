@@ -25,3 +25,21 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install required packages
 pip install pywebview python-telegram-bot aiohttp
+```
+
+---
+## 🗺️ Roadmap
+- [ ] Multi-bot dashboard management.
+- [ ] No compiling Erors
+- [x] GitGub homepage
+- [ ] Bots / Commands Marketplace
+
+---
+## ⚖️ License
+This project is licensed under the terms of the custom **AdriansaDev License**.
+
+- **Permissions**: You are free to use, modify, and redistribute this software.
+- **Attribution**: You must provide proper credit and attribution to the original author (**AdriansaDev**).
+- **Prohibitions**: Commercial utilization, monetization, or any use of this software for financial gain is **strictly prohibited**.
+
+For full details, please refer to the [LICENSE](LICENSE) file included in this repository.
