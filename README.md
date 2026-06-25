@@ -26,6 +26,16 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 # Install required packages
 pip install pywebview python-telegram-bot aiohttp
 ```
+## 📖 Documentation & Reference Guide
+---
+
+Welcome to the official documentation hub. This section provides a high-level overview of the system architecture, API endpoints, and configuration paradigms. For the complete, auto-generated API reference, please visit the [Full Documentation Portal](https://link).
+
+### 🧭 Quick Navigation
+* [PlaceHolder 1](#-core-architecture)
+* [PlaceHolder 2](#-getting-started--installation)
+* [PlaceHolder 3](#-api-reference-snippets)
+* [PlaceHolder 4](#-troubleshooting--faq)
 
 ---
 ## 🗺️ Roadmap
