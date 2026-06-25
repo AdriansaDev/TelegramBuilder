@@ -46,10 +46,10 @@ Welcome to the official documentation hub. This section provides a high-level ov
 
 ---
 ## ⚖️ License
-This project is licensed under the terms of the custom **AdriansaDev License**.
+This project is licensed under the terms of the **MIT License**.
 
-- **Permissions**: You are free to use, modify, and redistribute this software.
+- **Permissions**: You are free to use, modify, redistribute, and commercially utilize this software.
 - **Attribution**: You must provide proper credit and attribution to the original author (**AdriansaDev**).
-- **Prohibitions**: Commercial utilization, monetization, or any use of this software for financial gain is **strictly prohibited**.
+- **No Warranty**: The software is provided "as is", without warranty of any kind.
 
-For full details, please refer to the [LICENSE](LICENSE) file included in this repository.
+For full details, please refer to the official [MIT License](https://opensource.org/license/mit) documentation.
