@@ -12,11 +12,9 @@
   - [1.2. Installation Process](#12-installation-process)
     - [Option A: Pre-compiled Binary (Recommended for Users)](#option-a-pre-compiled-binary-recommended-for-users)
     - [Option B: Source-based Setup (Recommended for Developers)](#option-b-source-based-setup-recommended-for-developers)
-  - [1.3. Core Inputs & Data Types](#13-core-inputs--data-types)
-  - [1.4. UI / UX Workspace Architecture](#14-ui--ux-workspace-architecture)
-- [2. Node Reference Manual](#2-node-reference-manual)
-  - [2.1. Node 1: [Name]](#21-node-1-name)
-  - [2.2. Node 2: [Name]](#22-node-2-name)
+- [2. First Moves](#2-node-reference-manual)
+  - [2.1: Overview & Index](#21-node-1-name)
+  - [2.2. Primary Navigation](#22-node-2-name)
 
 ## 💻 Instalation Process
 
@@ -74,6 +72,3 @@ Designed for cross-platform environments requiring source auditing, debugging, o
    ```bash
    python main.py
    ```
-
-
-# 🖱️ First Moves
