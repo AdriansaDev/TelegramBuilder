@@ -74,3 +74,6 @@ Designed for cross-platform environments requiring source auditing, debugging, o
    ```bash
    python main.py
    ```
+
+
+# 🖱️ First Moves
