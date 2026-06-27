@@ -29,7 +29,7 @@ pip install pywebview python-telegram-bot aiohttp
 ## 📖 Documentation & Reference Guide
 ---
 
-Welcome to the official documentation hub. This section provides a high-level overview of the system architecture, API endpoints, and configuration paradigms. For the complete, auto-generated API reference, please visit the [Full Documentation Portal](https://link).
+Welcome to the official documentation hub. This section provides a high-level overview of the system architecture, API endpoints, and configuration paradigms. For the complete, auto-generated API reference, please visit the [Full Documentation Portal](Documentation/DocumentationPortal.md).
 
 ### 🧭 Quick Navigation
 * [PlaceHolder 1](#-core-architecture)
