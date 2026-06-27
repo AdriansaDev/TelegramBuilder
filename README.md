@@ -33,7 +33,7 @@ Welcome to the official documentation hub. This section provides a high-level ov
 
 ### 🧭 Quick Navigation
 * ["🚀 Getting Started"](Documentation/GettingStarted.md)
-* [PlaceHolder 2](#-getting-started--installation)
+* ["🖱️ First Moves"](Documentation/FirstMoves.md)
 * [PlaceHolder 3](#-api-reference-snippets)
 * [PlaceHolder 4](#-troubleshooting--faq)
 
