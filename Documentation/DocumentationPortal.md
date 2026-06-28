@@ -10,3 +10,5 @@
 - [2. First Moves](Documentation/DocumentationPortal.md)
   - [2.1. Overview & Index](Documentation/DocumentationPortal.md#-first-moves--core-architecture)
   - [2.2. Primary Navigation](Documentation/DocumentationPortal.md#input-mapping-specification)
+
+---
