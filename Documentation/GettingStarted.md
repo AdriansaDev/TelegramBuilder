@@ -15,6 +15,7 @@
 - [2. First Moves](#2-node-reference-manual)
   - [2.1: Overview & Index](#21-node-1-name)
   - [2.2. Primary Navigation](#22-node-2-name)
+  - [2.3. Keyboard Shurtcuts](Documentation/DocumentationPortal.md#input-mapping-specification)
 
 ## 💻 Instalation Process
 
