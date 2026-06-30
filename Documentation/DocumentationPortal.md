@@ -15,9 +15,9 @@
 ---
 
 <p align="center">
-  <a href="./README.md"><img src="https://img.shields.io/badge/%C2%AB_Home-Previous-blue?style=flat-square" alt="Previous"></a>
-  <a href="./README.md"><img src="https://img.shields.io/badge/1-Gray-darkgrey?style=flat-square" alt="Page 1"></a>
-  <a href="./docs/PAGE_2.md"><img src="https://img.shields.io/badge/2-Active-blue?style=flat-square" alt="Page 2"></a>
-  <a href="./docs/PAGE_3.md"><img src="https://img.shields.io/badge/3-Gray-darkgrey?style=flat-square" alt="Page 3"></a>
-  <a href="./docs/PAGE_2.md"><img src="https://img.shields.io/badge/Next-%C2%BB-blue?style=flat-square" alt="Next"></a>
+  <a href="./README.md"><img src="https://img.shields.io/badge/%C2%AB_Home-Active-blue?style=flat-square" alt="Home"></a>
+  <a href="./Documentation/GettingStarted.md"><img src="https://img.shields.io/badge/1-Gray-darkgrey?style=flat-square" alt="Page 1"></a>
+  <a href="./Documentation/FirstMoves.md"><img src="https://img.shields.io/badge/2-Gray-darkgrey?style=flat-square" alt="Page 2"></a>
+  <a href="./Documentation/FirstMoves.md"><img src="https://img.shields.io/badge/3-Gray-darkgrey?style=flat-square" alt="Page 3"></a>
+  <a href="./Documentation/GettingStarted.md"><img src="https://img.shields.io/badge/Next-%C2%BB-blue?style=flat-square" alt="Next"></a>
 </p>
