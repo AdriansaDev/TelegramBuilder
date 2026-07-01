@@ -40,7 +40,6 @@ Welcome to the official documentation hub. This section provides a high-level ov
 ---
 ## 🗺️ Roadmap
 - [ ] Multi-bot dashboard management.
-- [ ] No compiling Erors
 - [x] GitHub homepage
 - [ ] Bots / Commands Marketplace
 
