@@ -9,13 +9,23 @@
 
 - [1. Getting Started](#1-getting-started)
   - [1.1. Overview & Index](#11-overview--index)
-  - [1.2. Installation Process](#12-installation-process)
+  - [1.2. Dependencies](#12-dependencies)
+  - [1.3. Instalation Process](#13-instalation-process)
     - [Option A: Pre-compiled Binary (Recommended for Users)](#option-a-pre-compiled-binary-recommended-for-users)
     - [Option B: Source-based Setup (Recommended for Developers)](#option-b-source-based-setup-recommended-for-developers)
 - [2. First Moves](#2-node-reference-manual)
   - [2.1: Overview & Index](#21-node-1-name)
   - [2.2. Primary Navigation](#22-node-2-name)
   - [2.3. Keyboard Shurtcuts](Documentation/DocumentationPortal.md#input-mapping-specification)
+
+### 📦 Dependencies
+To ensure seamless operation, the engine requires the following Python libraries:
+
+| Library | Purpose |
+| :--- | :--- |
+| `pywebview` | Desktop UI orchestration and IPC bridging. |
+| `python-telegram-bot` | Asynchronous Telegram API wrapper for bot logic. |
+| `aiohttp` | Non-blocking HTTP client for external API integration. |
 
 ## 💻 Instalation Process
 
