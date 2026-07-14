@@ -186,12 +186,12 @@ Scaling modifies the projection matrix scale factor with the cursor position as 
 
 | Category | Color | Dot |
 |:---|:---|:---:|
-| Trigger | Red | 🔴 |
+| Trigger | Light Green | 🟢 |
 | Action | Blue | 🔵 |
-| Logic | Green | 🟢 |
-| Variable | Orange | 🟠 |
-| System | Purple | 🟣 |
-| Error | Gray | ⚪ |
+| Logic | Purple | 🟣 |
+| Variable | Green | 🟢 |
+| System | Red | 🔴 |
+| Error | Red | 🔴 |
 
 ### 5.2 Toast Notifications
 
