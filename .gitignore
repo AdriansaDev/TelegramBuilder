@@ -1,5 +1,7 @@
 main.py
 editor.html
+nodes.js
+compiler.js
 venv/
 __pycache__/
 temp_bot_runtime.py
