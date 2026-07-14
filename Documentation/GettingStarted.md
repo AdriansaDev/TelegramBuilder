@@ -129,7 +129,7 @@ python main.py
 
 When you run TG;BD for the first time, you'll see:
 
-![First Launch](https://github.com/user-attachments/assets/3910c912-615c-4091-8540-b5f5754c3251)
+<img width="1920" height="1013" alt="image" src="https://github.com/user-attachments/assets/330c8aee-4cb8-4fcf-bc80-8a355a8a1e1b" />
 
 ### What You See
 
